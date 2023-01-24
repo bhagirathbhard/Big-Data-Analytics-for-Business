@@ -1,7 +1,5 @@
 # Big Data Analytics for Business
 
-Bhagirath
-
 This repository consists of course material for IS843, Big Data Analytics for Business. Each week's material can be found under the associated week number.
 
 This repository can be accessed via this short link:
